@@ -1,2 +1,2 @@
 # seedsite
-website for seedbean
+We love seedbean
