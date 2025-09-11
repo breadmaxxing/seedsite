@@ -95,27 +95,3 @@ a{
 .bandcamp p{
   display: inline;
 }
-
-@media screen and (max-device-width:480px){
-  .maindiv{
-    top:50%;
-    left:60%;
-    width:100%;
-    zoom:100%;
-    animation-name: mobilewoah;
-  }
-  body{
-    height:100%;
-  }
-
-  .background{
-    height:140%;
-    width:140%;
-  }
-  @keyframes mobilewoah {
-    from {top:53%; opacity:0%;}
-    to {top:50%; opacity:100%;}
-  }
-
-    
-}
