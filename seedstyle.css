@@ -15,7 +15,7 @@ body, html {
 body{
   background-image: url("https://i.scdn.co/image/ab67616d00001e02eebc72028367bd9f3f570f02");
   background-position: center;
-  background-repeat: repeat;
+  background-repeat:repeat-x;
   background-size: cover;
   
 }
@@ -26,9 +26,8 @@ body{
   backdrop-filter: blur(7px);
   -webkit-filter: blur(7px);
   height: 110%; 
-  width:120%;
+  width:100%;
   margin-bottom: -50px;
-  margin-left:-550px;
   padding:-50px;
   position: absolute;
 }
@@ -37,6 +36,7 @@ body{
 .maindiv{
   margin:auto;
   width:50%;
+  zoom: 130%;
 }
 #title{
   position:relative;
