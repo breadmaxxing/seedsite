@@ -17,6 +17,7 @@ body{
   background-position: center;
   background-repeat: repeat;
   background-size: cover;
+  
 }
 
 .background {
@@ -26,7 +27,8 @@ body{
   -webkit-filter: blur(7px);
   height: 110%; 
   width:120%;
-  margin: -50px;
+  margin-bottom: -50px;
+  margin-left:-550px;
   padding:-50px;
   position: absolute;
 }
