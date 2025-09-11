@@ -96,7 +96,7 @@ a{
 
 @media screen and (max-device-width:480px){
   .maindiv{
-    top:50%;
+    top:25%;
     left:50%;
   }
   
