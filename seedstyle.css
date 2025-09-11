@@ -101,12 +101,14 @@ a{
     top:25%;
     left:50%;
     width:150%;
+    animation-name: mobilewoah;
   }
   .background{
     width:100%;
+
   }
   
-  @keyframes woah {
+  @keyframes mobilewoah {
     from {top:28%; opacity:0%;}
     to {top:25%; opacity:100%;}
   }
